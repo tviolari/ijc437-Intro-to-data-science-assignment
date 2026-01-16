@@ -2,11 +2,14 @@
 
 >To what extent are the key factors of cost and reliability driving the
 >different recovery trajectories of long-distance versus regional rail services
->in the post COVID era? 
+>in the post COVID era?
+
 >(a) To what extent has the COVID-19 pandemic altered
->passenger demand? 
+>passenger demand?
+
 >(b) How has the real cost of travel evolved across different
->regions? 
+>regions?
+
 >(c) How has rail service reliability in the UK changed over the
 >years?
 
